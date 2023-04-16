@@ -51,7 +51,7 @@ public class PortScanner{
                 Socket socket = new Socket();
                 socket.connect(new InetSocketAddress(ipAddress, port), checkTime);
                 socket.close();
-                System.out.println(ANSI_CYAN_BACKGROUND + "Port -> " + port + " open");
+                System.out.println("Port -> " + port + " open");
                 ports.add("Port -> " + port + " open");
             } catch (Exception ex) {
 
