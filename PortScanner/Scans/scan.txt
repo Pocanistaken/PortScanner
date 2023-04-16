@@ -1,0 +1,5 @@
+Port -> 21 open
+Port -> 80 open
+Port -> 135 open
+Port -> 139 open
+Port -> 445 open

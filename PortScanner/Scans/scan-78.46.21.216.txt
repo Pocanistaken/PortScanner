@@ -1,0 +1,13 @@
+JOIN MY DISCORD SERVER https://discord.gg/D4bqSty
+TARGET IP -> 78.46.21.216
+Port -> 21 open
+Port -> 80 open
+Port -> 135 open
+Port -> 139 open
+Port -> 445 open
+Port -> 1454 open
+Port -> 2000 open
+Port -> 2001 open
+Port -> 3000 open
+Port -> 3389 open
+Port -> 5000 open
